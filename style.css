@@ -7,4 +7,32 @@ h3{
   font-size: 300%;
   background-color:EEBC1D;
   letter-spacing: 5px;
+  position: fixed;
+  top: 20px;
+  width: 1905px;
+}
+ul{
+  list-style-type: none;
+  background-color: #FEF5EF;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  text-align: center;
+  left: 0;
+  top: 0;
+  margin: 0;
+}
+li{
+  float: left;
+}
+li a{
+  display: block;
+  color: #2C3D55;
+  text-decoration: none;
+  padding: 15px 185px;
+  border-style: double;
+}
+li a:hover {
+  background-color: #252422;
+  color: #E6EBE0;
 }
