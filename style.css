@@ -11,6 +11,10 @@ h3{
   top: 20px;
   width: 1905px;
 }
+p{
+  color: #E6EBE0;
+  font-size: 175%;
+}
 ul{
   list-style-type: none;
   background-color: #FEF5EF;
