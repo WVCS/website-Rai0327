@@ -1,13 +1,13 @@
-body {
-  background-color:F2545B;
+body{
+  background-color: #F2545B;
 }
 
 h3{
-  color:FBFFF1;
+  color: #FBFFF1;
   font-size: 300%;
-  background-color:EEBC1D;
+  background-color: #EEBC1D;
   letter-spacing: 5px;
-  position: fixed;
+  position: center;
   top: 20px;
   width: 1905px;
 }
@@ -29,7 +29,7 @@ li a{
   display: block;
   color: #2C3D55;
   text-decoration: none;
-  padding: 15px 185px;
+  padding: 15px 143px;
   border-style: double;
 }
 li a:hover {
