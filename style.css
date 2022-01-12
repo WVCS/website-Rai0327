@@ -33,7 +33,7 @@ li a{
   color: #2C3D55;
   text-decoration: none;
   padding: 15px 85px;
-  border-style: double;
+  border-style: none;
 }
 li a:hover {
   background-color: #252422;
